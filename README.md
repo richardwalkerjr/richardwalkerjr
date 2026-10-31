@@ -8,9 +8,9 @@
 
 #### 💬 Current Stack & Focus:
 - **Programming Language:** Python
-- **Frameworks:** Django, FastAPI, Flask, Bootstrap
+- **Frameworks:** Django, FastAPI, Flask
 - **Libraries:** BeautifulSoup
-- **Niche:** Web Scraping, Data Enrichment, and API Development 
+- **Niche:** Web Scraping, Data Enrichment, API Development, AI automation
 
 #### 🔌 Lets Connect
 - **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/therichardwalker)

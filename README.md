@@ -1,21 +1,35 @@
-# RICHARD WALKER JR
+# Richard Walker Jr.
 
-### Software Engineer | Army Veteran
+### Software Engineer | Army Veteran | Python Automation & Data Specialist
 
-#### 🎓 Education
-- **Degree:** M.S. Computer Science and Information Science
-- **School:** Alcorn State University
+I am a software engineer that builds data-driven, automated solutions for small and mid-sized businesses. My work helps teams reduce manual effort, cut costs, and make better use of their data.
 
-#### 💬 Current Stack & Focus:
-- **Programming Language:** Python
+#### 🛠️ What I Build
+- **Web scraping pipelines:** reliable data collection from messy sources
+- **Data enrichment:** turning raw lists into usable, structured records
+- **APIs:** FastAPI/Django backends that connect tools and systems
+- **AI automation:** workflows that replace manual, repetitive tasks
+
+#### 💻 Tech Stack
+- **Language:** Python
 - **Frameworks:** Django, FastAPI, Flask
 - **Libraries:** BeautifulSoup
-- **Niche:** Web Scraping, Data Enrichment, API Development, AI automation
 
-#### 🔌 Lets Connect
-- **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/therichardwalker)
-- **Real-time updates & insights:** [x / @richardwalked](https://x.com/richardwalked)
-- **Coding Videos:** [YouTube](https://www.youtube.com/@richwalkjr)
+#### 🎓 Education
+- **M.S. Computer Science and Information Science**, Alcorn State University
+
+<!--
+#### 📌 Featured Projects
+- [Project name](link): one line on what it does and the problem it solves
+- [Project name](link): one line on what it does and the problem it solves
+- -->
+
+#### 🤝 Let's Connect
+- **LinkedIn:** [therichardwalker](https://www.linkedin.com/in/therichardwalker)
+- **X:** [@richardwalked](https://x.com/richardwalked)
+- **YouTube (coding videos):** [@richwalkjr](https://www.youtube.com/@richwalkjr)
+
+*Open to freelance projects and full-time opportunities.*
   
 <!--
 **richardwalkerjr/richardwalkerjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

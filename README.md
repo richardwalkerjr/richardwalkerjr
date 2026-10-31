@@ -1,22 +1,23 @@
 # RICHARD WALKER JR
 
-## Software Engineer
+## Software Engineer | Army Veteran
 
 #### 🎓 Education
-M.S. Computer Science and Information Science
-Alcorn State University
+- **Degree:** M.S. Computer Science and Information Science
+- **School:** Alcorn State University
 
-#### Current Stack & Focus:
-- **Programming Language: Python
-- **Frameworks: Django, FastAPI, Flask, Bootstrap
-- **Libraries: BeautifulSoup
+#### 💬 Current Stack & Focus:
+- **Programming Language:** Python
+- **Frameworks:** Django, FastAPI, Flask, Bootstrap
+- **Libraries:** BeautifulSoup
 
-- **Focus: Web Scraping, Data Enrichment, and API Development 
+- **Focus:** Web Scraping, Data Enrichment, and API Development 
 
 #### 🔌 Lets Connect
 - **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/therichardwalker)
 - **Real-time updates & insights:** [x / @richardwalked](https://x.com/richardwalked)
 - **Coding Videos:** [YouTube](https://www.youtube.com/@richwalkjr)
+  
 <!--
 **richardwalkerjr/richardwalkerjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

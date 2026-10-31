@@ -1,6 +1,6 @@
 # Richard Walker Jr.
 
-### Software Engineer | Army Veteran | Python Automation & Data Specialist
+### Software Engineer | Army Veteran
 
 I am a software engineer that builds data-driven, automated solutions for small and mid-sized businesses. My work helps teams reduce manual effort, cut costs, and make better use of their data.
 

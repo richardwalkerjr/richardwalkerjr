@@ -10,7 +10,7 @@
 - **Programming Language:** Python
 - **Frameworks:** Django, FastAPI, Flask, Bootstrap
 - **Libraries:** BeautifulSoup
-- **Focus:** Web Scraping, Data Enrichment, and API Development 
+- **Niche:** Web Scraping, Data Enrichment, and API Development 
 
 #### 🔌 Lets Connect
 - **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/therichardwalker)

@@ -1,6 +1,6 @@
 # RICHARD WALKER JR
 
-## Software Engineer | Army Veteran
+### Software Engineer | Army Veteran
 
 #### 🎓 Education
 - **Degree:** M.S. Computer Science and Information Science
@@ -10,7 +10,6 @@
 - **Programming Language:** Python
 - **Frameworks:** Django, FastAPI, Flask, Bootstrap
 - **Libraries:** BeautifulSoup
-
 - **Focus:** Web Scraping, Data Enrichment, and API Development 
 
 #### 🔌 Lets Connect
